@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yangliunz/POC_Builder_GPT/static/css/main.073c9b0a.css",
+    "main.js": "/yangliunz/POC_Builder_GPT/static/js/main.217c2e54.js",
+    "static/js/787.c0a18ff2.chunk.js": "/yangliunz/POC_Builder_GPT/static/js/787.c0a18ff2.chunk.js",
+    "static/media/logo.svg": "/yangliunz/POC_Builder_GPT/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yangliunz/POC_Builder_GPT/index.html",
+    "main.073c9b0a.css.map": "/yangliunz/POC_Builder_GPT/static/css/main.073c9b0a.css.map",
+    "main.217c2e54.js.map": "/yangliunz/POC_Builder_GPT/static/js/main.217c2e54.js.map",
+    "787.c0a18ff2.chunk.js.map": "/yangliunz/POC_Builder_GPT/static/js/787.c0a18ff2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.217c2e54.js"
+  ]
+}
