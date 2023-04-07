@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/POC_Builder_GPT/static/css/main.bf751600.css",
-    "main.js": "/POC_Builder_GPT/static/js/main.8378b86e.js",
+    "main.js": "/POC_Builder_GPT/static/js/main.f72bfcd5.js",
     "static/js/787.e1450a8f.chunk.js": "/POC_Builder_GPT/static/js/787.e1450a8f.chunk.js",
     "index.html": "/POC_Builder_GPT/index.html",
     "main.bf751600.css.map": "/POC_Builder_GPT/static/css/main.bf751600.css.map",
-    "main.8378b86e.js.map": "/POC_Builder_GPT/static/js/main.8378b86e.js.map",
+    "main.f72bfcd5.js.map": "/POC_Builder_GPT/static/js/main.f72bfcd5.js.map",
     "787.e1450a8f.chunk.js.map": "/POC_Builder_GPT/static/js/787.e1450a8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf751600.css",
-    "static/js/main.8378b86e.js"
+    "static/js/main.f72bfcd5.js"
   ]
 }
